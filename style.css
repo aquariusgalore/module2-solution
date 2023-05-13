@@ -1,0 +1,23 @@
+*{
+	padding: 0;
+	margin:0;
+	box-sizing: border-box;
+}
+
+html,body{
+	width: 100%;
+	height: 100%;
+}
+
+header {
+	background-image: linear-pink
+	height: 100vh;
+	background-size: cover;
+	background position: center;
+}
+
+#main{
+	background: transparent;
+	width: 100%
+	height: 50px;
+}
