@@ -19,8 +19,8 @@ h2 {
   right:0px;
   margin: none;
   float: right;
-  width: 400px;
-  height: 100px;
+  width: 700px;
+  height: 350px;
   border:1px solid black;
   text-align:center;
   padding: center;
@@ -31,9 +31,9 @@ h3 {
   top: 0px;
   right:0px;
   margin: none;
-  float: none;
-  width: 140px;
-  height: 35px;
+  float: right;
+  width: 700px;
+  height: 350px;
   border:1px solid black;
   text-align:center;
   padding: center;
@@ -44,9 +44,9 @@ h4 {
   top: 0px;
   right:0px;
   margin: none;
-  float: none;
-  width: 140px;
-  height: 35px;
+  float: right;
+  width: 700px;
+  height: 350px;
   border:1px solid black;
   text-align:center;
   padding: center;
