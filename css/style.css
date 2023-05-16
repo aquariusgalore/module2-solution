@@ -15,8 +15,8 @@ h1 {
 }
 h2 {
   position: absolute;
-  top: 0px;
-  right:0px;
+  top: 50px;
+  right:50px;
   margin: auto;
   float: none;
   width: 140px;
