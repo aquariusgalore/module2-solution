@@ -19,8 +19,8 @@ h2 {
   right:0px;
   margin: none;
   float: right;
-  width: 400px;
-  height: 100px;
+  width: 140px;
+  height: 35px;
   border:1px solid black;
   text-align:center;
   padding: center;
@@ -57,9 +57,9 @@ h4 {
   position: relative;
   border: 1px solid black;
   background-color: #808080;
-  width: 80%;
+  width: 400px;
   height: 200px;
-  margin-right: 100px;
+  margin-right: 10px;
   margin-left: 0px;
   margin-bottom: 0px;
   font-family: sans-serif;
