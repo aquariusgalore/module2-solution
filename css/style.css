@@ -10,7 +10,7 @@ body {
 }
 h1 {
   margin-bottom: 5%;
-  margin-top: 1%;
+  margin-top: 100%;
   text-align: center;
 }
 h2 {
@@ -19,7 +19,7 @@ h2 {
   right:0px;
   margin: none;
   float: none;
-  width: 140px;
+  width: 200px;
   height: 35px;
   border:1px solid black;
   text-align:center;
