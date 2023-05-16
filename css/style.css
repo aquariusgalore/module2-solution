@@ -15,9 +15,9 @@ h1 {
 }
 h2 {
   position: absolute;
-  top: 50px;
-  right:10px;
-  margin: auto;
+  top: 0px;
+  right:0px;
+  margin: none;
   float: none;
   width: 100px;
   height: 35px;
