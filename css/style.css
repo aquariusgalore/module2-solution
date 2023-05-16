@@ -9,17 +9,17 @@ body {
   font-size: 100%
 }
 h1 {
-  margin-bottom: 5%;
-  margin-top: 5%;
+  margin-bottom: 10%;
+  margin-top: 1%;
   text-align: center;
 }
 h2 {
   position: absolute;
   top: 50px;
-  right:50px;
+  right:10px;
   margin: auto;
   float: none;
-  width: 140px;
+  width: 100px;
   height: 35px;
   border:1px solid black;
   text-align:center;
