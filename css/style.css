@@ -53,12 +53,11 @@ h4 {
   background-color: #FFFDD0;
 }
 .box {
-  clear: margin;
   position: relative;
   border: 1px solid black;
   background-color: #808080;
-  width: 700px;
-  height: 400px;
+  width: 850px;
+  height: 600px;
   margin-right: 0px;
   margin-left: 0px;
   margin-bottom: 0px;
