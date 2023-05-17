@@ -25,6 +25,7 @@ h2 {
   text-align:center;
   padding: center;
   background-color: #FFC0CB;
+  font-size: 100%;
 }
 h3 {
   position: absolute;
@@ -38,6 +39,7 @@ h3 {
   text-align:center;
   padding: center;
   background-color: #FF0000;
+  font-size: 100%;
 }
 h4 {
   position: absolute;
@@ -51,6 +53,7 @@ h4 {
   text-align:center;
   padding: center;
   background-color: #e3be9b;
+  font-size: 100%;
 }
 .box {
   position: relative;
